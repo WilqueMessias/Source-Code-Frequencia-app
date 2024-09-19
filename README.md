@@ -22,4 +22,4 @@ This project is a simple attendance tracking system developed for **Giro Ferragi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/WilqueMessias/Frequencia.git
+   git clone https://github.com/WilqueMessias/Source-Code-Frequencia-app.git
